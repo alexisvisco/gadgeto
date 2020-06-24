@@ -1,9 +1,9 @@
 package jujerr
 
 import (
+	"github.com/alexisvisco/gadgeto/tonic"
 	"github.com/gin-gonic/gin"
 	"github.com/juju/errors"
-	"github.com/loopfz/gadgeto/tonic"
 )
 
 func ErrHook(c *gin.Context, e error) (int, interface{}) {

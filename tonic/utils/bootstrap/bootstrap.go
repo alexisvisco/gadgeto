@@ -3,8 +3,8 @@ package bootstrap
 import (
 	"net/http"
 
+	"github.com/alexisvisco/gadgeto/tonic"
 	"github.com/gin-gonic/gin"
-	"github.com/loopfz/gadgeto/tonic"
 )
 
 // Bootstrap bootstraps tonic with gin engine.

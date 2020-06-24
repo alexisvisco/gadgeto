@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/loopfz/gadgeto/tonic/utils/swag/doc"
+	"github.com/alexisvisco/gadgeto/tonic/utils/swag/doc"
 )
 
 /*

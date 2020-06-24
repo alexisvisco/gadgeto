@@ -3,8 +3,8 @@ package tonic_test
 import (
 	"testing"
 
+	"github.com/alexisvisco/gadgeto/tonic"
 	"github.com/gin-gonic/gin"
-	"github.com/loopfz/gadgeto/tonic"
 )
 
 func TestRoute_GetTags(t *testing.T) {

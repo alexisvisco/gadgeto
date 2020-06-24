@@ -1,11 +1,11 @@
 package swag
 
 import (
+	"github.com/alexisvisco/gadgeto/tonic"
+	"github.com/alexisvisco/gadgeto/tonic/utils/bootstrap"
+	"github.com/alexisvisco/gadgeto/tonic/utils/swag/doc"
+	"github.com/alexisvisco/gadgeto/tonic/utils/swag/swagger"
 	"github.com/gin-gonic/gin"
-	"github.com/loopfz/gadgeto/tonic"
-	"github.com/loopfz/gadgeto/tonic/utils/bootstrap"
-	"github.com/loopfz/gadgeto/tonic/utils/swag/doc"
-	"github.com/loopfz/gadgeto/tonic/utils/swag/swagger"
 )
 
 var (

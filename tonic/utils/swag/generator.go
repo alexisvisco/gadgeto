@@ -6,9 +6,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/loopfz/gadgeto/tonic"
-	"github.com/loopfz/gadgeto/tonic/utils/swag/doc"
-	"github.com/loopfz/gadgeto/tonic/utils/swag/swagger"
+	"github.com/alexisvisco/gadgeto/tonic"
+	"github.com/alexisvisco/gadgeto/tonic/utils/swag/doc"
+	"github.com/alexisvisco/gadgeto/tonic/utils/swag/swagger"
 )
 
 // GENERATOR
